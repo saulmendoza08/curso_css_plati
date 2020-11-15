@@ -1,0 +1,14 @@
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+https://labs.jensimmons.com
+https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag
+
+juegos
+
+https://cssgridgarden.com/#es
+flexboxfroggy.com/#es
+
+
+https://platzi.com/clases/css-grid-layout/
